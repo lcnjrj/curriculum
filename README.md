@@ -61,6 +61,7 @@ style.css - É o nome do arquivo CSS externo.
 <footer> define a seção de rodapé da página.
 
 ### CSS:
+
 w3-twothird: define um elemento com largura de dois terços do contêiner pai.
 w3-container: define um contêiner com largura máxima de 1170 pixels e centralizado horizontalmente.
 w3-center: centraliza o conteúdo horizontalmente dentro de um elemento.
@@ -87,6 +88,7 @@ Responsividade: é a capacidade de um site ou aplicativo da web de se adaptar a 
 ### DICIONÁRIO FRONTEND
 
 ### HTML:
+
 <!DOCTYPE html> - Define o tipo de documento como HTML
 <html> - Inicia o documento HTML
 <head> - Início do cabeçalho
