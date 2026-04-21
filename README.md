@@ -3,18 +3,19 @@ https://lcnjrj.github.io/curriculum/
 
 
 
-# Currículo Online Com HTML e GitHub Pages
+## Currículo Online Com HTML e GitHub Pages
 
 
-# Referências:
+### Referências:
 
 W3C: https://www.w3schools.com/howto/howto_website_create_resume.asp
 
 Lembre-se de incluir comentários no seu código para facilitar a compreensão e a manutenção futura do projeto. Boa sorte!
 
-# CONCEITOS UTILIZADOS
+### CONCEITOS UTILIZADOS
 
-# HTML:
+## HTML:
+
 Algumas das principais tags e conceitos que utilizamos para o desenvolvimento desse projeto foram:
 
 <!DOCTYPE html> que é uma declaração que define o tipo de documento como HTML5.
@@ -59,7 +60,7 @@ style.css - É o nome do arquivo CSS externo.
 
 <footer> define a seção de rodapé da página.
 
-# CSS:
+### CSS:
 w3-twothird: define um elemento com largura de dois terços do contêiner pai.
 w3-container: define um contêiner com largura máxima de 1170 pixels e centralizado horizontalmente.
 w3-center: centraliza o conteúdo horizontalmente dentro de um elemento.
@@ -83,9 +84,9 @@ Font Awesome: é uma biblioteca de ícones vetoriais que podem ser personalizado
 Box model: é um conceito fundamental do CSS que define como um elemento HTML é renderizado. Cada elemento é composto por conteúdo, preenchimento, borda e margem, que juntos formam o "modelo de caixa" do elemento.
 Responsividade: é a capacidade de um site ou aplicativo da web de se adaptar a diferentes tamanhos de tela e dispositivos, proporcionando uma experiência de usuário consistente em todos eles. No exemplo, a classe .w3-twothird é usada para definir a largura de um elemento em dois terços do contêiner pai, tornando-o responsivo em telas de diferentes tamanhos.
 
-📚 DICIONÁRIO FRONTEND
+### DICIONÁRIO FRONTEND
 
-🔴 HTML:
+### HTML:
 <!DOCTYPE html> - Define o tipo de documento como HTML
 <html> - Inicia o documento HTML
 <head> - Início do cabeçalho
@@ -104,5 +105,5 @@ O GitHub Pages é frequentemente usado por desenvolvedores e equipes de desenvol
 
 Além disso, o GitHub Pages também suporta Jekyll, um gerador de sites estáticos que permite que você crie um site mais complexo com menos esforço, oferecendo recursos como geração automática de páginas e layouts.
 
-Saiba mais :
+### Saiba mais :
 Emojis: https://www.w3schools.com/charsets/ref_emoji.asp
